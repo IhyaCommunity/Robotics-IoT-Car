@@ -2,7 +2,7 @@
   "name": "control-car",
   "version": "1.0.0",
   "description": "Joystick and Accelerometer controlled Car with a camera and livestream using Raspberry Pi. Demo originally presented at the Robotics & IoT Workshop",
-  "main": "bulbs.js",
+  "main": "car.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,8 @@
   "dependencies": {
     "johnny-five": "^0.14.2",
     "raspi-io": "^8.1.0",
-    "socket.io": "^2.1.0"
+    "socket.io": "^2.1.0",
+    "express": "^4.16.2"
   },
   "repository": {
     "type": "git",
