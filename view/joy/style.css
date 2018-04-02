@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.logo {
+    text-align: center;
+    margin: 2vh 1vh;
+}
+.logo > img {
+    height: 4vh;
+    width: 4vh;
+}
+
+.video { 
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    margin-top: 2em;
+}
+
+img {
+    height: 600px;
+    width: 800px;
+}

@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    height: 70vh;
+}
+
+.axis {
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 4vh;
+    padding: .2em .1em;
+    background-color: white;
+}
+
+#x-axis {
+    color: green;
+}
+
+#y-axis {
+    color: red;
+}
+
+.container {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4vh;
+    background-color: white;
+    color: black;
+    padding: .5em 1em;
+}

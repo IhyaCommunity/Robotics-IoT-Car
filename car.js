@@ -21,7 +21,7 @@ board.on('ready', () => {
 
 });
 
-app.use('/', express.static('index.html'))
+app.use('/', express.static('view/index.html'))
 app.use('/motion', express.static('view/motion'));
 app.use('/joy', express.static('view/joy'));
 
