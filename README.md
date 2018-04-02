@@ -1,5 +1,5 @@
 # Robotics & IoT
-## Joystick and Accelerometer Controlled Car 💡
+## Joystick and Accelerometer Controlled Car 🚗
 Joystick and Accelerometer controlled Car with a camera and livestream using Raspberry Pi, Node.js and Johnny-Five. This demo originally presented at the Robotics &amp; IoT Workshop.
 
 ### Follow these steps to run the project
